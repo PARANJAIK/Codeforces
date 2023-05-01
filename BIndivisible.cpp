@@ -1,4 +1,4 @@
-// Learnt like if n is odd other than 1, then the sum of all numbers from 1 to n is divisible by n. And this is not true if n is even. 
+// Learnt like if n is odd other than 1, then the sum of all numbers from 1 to n is divisible by n. And this is not true if n is even.  
 
 #include <bits/stdc++.h>
 using namespace std;
