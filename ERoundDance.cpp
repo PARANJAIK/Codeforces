@@ -61,5 +61,5 @@ int32_t main()
             cout<<(maxx-minn+1)<<" "<<maxx<<endl;
         }
     }
-    return 0;
+    return 0; 
 }
